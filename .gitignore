@@ -153,10 +153,6 @@ dmypy.json
 *.json
 *.xml
 *.txt
-data/
-datasets/
-raw_data/
-processed_data/
 
 # Logs
 logs/
