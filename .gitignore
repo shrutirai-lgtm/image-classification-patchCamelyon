@@ -214,4 +214,4 @@ htmlcov/
 .coverage
 .coverage.*
 coverage.xml
-*.cover 
+*.cover best_model.keras
